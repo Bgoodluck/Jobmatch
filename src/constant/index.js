@@ -1,0 +1,6 @@
+export const supabaseUrl = "https://npsrzhctduejokbfawex.supabase.co";
+export const supabaseAnonKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5wc3J6aGN0ZHVlam9rYmZhd2V4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjgyMzQ0OTIsImV4cCI6MjA0MzgxMDQ5Mn0.8om3Y42Yg4BBgzdY53kLF7DxhEjRsnq47WMiEb5RxTs";
+
+
+export const stripeSK = "sk_test_51Q2NX404oDSmLf0bLLAf2CScEi9bO88IIIIDNSNfwklhsu2GcGCwI728dw9JTabEtHwDEH7mAF58rBtuhCVtTHvt00xHvW4VSl"
+export const stripePK = "pk_test_51Q2NX404oDSmLf0bDdghqulvcfdfdeL7RFuCYPfd1YtF4xvJ9HqPKXaYshXeowHYd5XGjv1mkGomcfgjCcr5uCF900hwpesMI4"
