@@ -1,7 +1,19 @@
+// {
+//   "compilerOptions": {
+//     "paths": {
+//       "@/*": ["./src/*"]
+//     }
+//   }
+// }
+
+
 {
   "compilerOptions": {
+    "baseUrl": ".",  // Base directory for resolving paths (current project root)
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["src/*"],            // General alias for the entire `src` directory
+      "@/assets/*": ["src/assets/*"],  // Specific alias for the `assets` folder
+      "@/components/*": ["src/components/*"]  // Specific alias for the `components` folder
     }
   }
 }
